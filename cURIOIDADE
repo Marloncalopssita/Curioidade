@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Valeu ana</title>
+</head>
+<body>
+    <header class="cabeçalho" style="text-align: center;text-decoration: underline;">
+    <h1>SAM & MAX</h1>
+    </header>
+
+    <div class="image">
+    <img src="img/Sam_&_Max_3D.png" alt="samandmax" style="align-items: center;">
+    </div>
+
+    <div class="parágrafo">
+    <p id="impar" style="text-align: center;">Sam e Max são dois personagens principais da série obscura da TellTale Games, com o mesmo nome.</p>
+
+    <p id="par" style="text-align: justify;">Eles foram originalmente desenhados pelo criador, Steve Purcell, quando ele tinha 9 anos. Após Steve se tornar um adulto, ele, que tinha interesse em trabalhar com desenhos em quadrinhos, recebeu a oportunidade de transformar os rabiscos infantes em caricaturas detalhadas.</p>
+
+    <p id="impar2" style="text-align: justify;">Ele acabou publicando uma HQ com seus personagens, e em consequência disso, ganhou popularidade. Mais tarde, nos anos 2000, foi criado, junto de Steve, um jogo de computador sobre os personagens. Ele acabou não se tornando um jogo muito popular, porém com o passar dos anos, ele criou um pequeno grupo de fãs, que estão espalhados pela internet, sendo vito hoje em dia como um clássico.</p>
+
+    <p id="par2" style="text-align: justify;">Foram lançados 3 jogos no total, sendo divididos em temporadas. Além disso, foram publicados mais alguns quadrinhos e até um seriado de televisão nos anos 80. Nos dias atuais, está em desenvolvimento remasterizações para os jogos, por fãs antigos que procuram reviver a alegrias dos jogos da época. Pode-se dizer que, apesar de antigo e inpopular, Sam e Max continuam nos corações de muitos fãs. </p>
+    </div>
+    
+</body>
+</html>
